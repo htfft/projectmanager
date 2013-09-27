@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- 颜色对照表 -->
+
+
+    <!-- 默认颜色不透明，相应的透明度，直接在对应颜色下面写，并注明透明度 -->
+    <!-- 以后，所有的颜色，都写在相应的序号下面，并标号序号 -->
+    <!-- 应当及时与UI同步 -->
+
+
+    <!-- 白色 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_transparent_00">#00FFFFFF</color>
+    <color name="white_transparent_56">#99FFFFFF</color>
+    <color name="white1">#FFFBFBFB</color>
+    <color name="white2">#FFEDEDED</color>
+    <color name="white3">#FFD7D7D7</color>
+    <color name="white4">#FFF2F2F2</color>
+
+    <!-- 黑色 -->
+    <color name="black">#FF000000</color>
+    <color name="black_transparent_20">#21000000</color>
+    <color name="black_transparent_50">#7F000000</color>
+    <color name="black_transparent_70">#BB000000</color>
+
+    <!-- 红色 -->
+    <color name="red">#FFFF0000</color>
+    <color name="red1">#FFFE60AB</color>
+    <color name="red2">#FFFF6666</color>
+    <color name="red3">#FFE65082</color>
+
+    <!-- 蓝色 -->
+    <color name="blue">#FF0000FF</color>
+    <color name="blue1">#FF24D2E7</color>
+    <color name="blue2">#FF5ED5D4</color>
+    <color name="blue3">#FF0AB6AC</color>
+
+    <!-- 绿色 -->
+    <color name="green">#FF008000</color>
+    <color name="green1">#FF96D808</color>
+    <color name="green2">#FF83CD9F</color>
+    <color name="green3">#FF8FDFD6</color>
+
+    <!-- 灰色 -->
+    <color name="gray">#FF808080</color>
+    <color name="gray1">#FF333333</color>
+    <color name="gray2">#FF666666</color>
+    <color name="gray2_transparent_20">#21666666</color>
+    <color name="gray2_transparent_70">#BB666666</color>
+    <color name="gray3">#FFCCCCCC</color>
+    <color name="gray4">#FFFAFAFA</color>
+    <color name="gray5">#FF444444</color>
+    <color name="gray6">#FF999999</color>
+    <color name="gray7">#FFB0B0B0</color>
+    <color name="gray8">#FFEFF0F0</color>
+    <color name="gray9">#FFF0F0F0</color>
+    <color name="gray10">#FF797979</color>
+    <color name="gray11">#FF656565</color>
+
+    <!-- 紫色 -->
+    <color name="purple">#FF800080</color>
+    <color name="purple1">#FFE464FF</color>
+
+    <!-- 粉色 -->
+    <color name="pink">#FFFFC0CB</color>
+    <color name="pink1">#FFFF6699</color>
+    <color name="pink2">#FFF664A2</color>
+    <color name="pink3">#FFFA5099</color>
+    <color name="pink4">#FFF199C3</color>
+    <color name="pink5">#FFEF717F</color>
+    <color name="pink6">#FFF9779D</color>
+    <color name="pink7">#FFF86793</color>
+
+    <!-- 黄色 -->
+    <color name="yellow">#FFFFFF00</color>
+    <color name="yellow1">#FFFF8700</color>
+    <color name="yellow2">#FFFFC000</color>
+
+</resources>
