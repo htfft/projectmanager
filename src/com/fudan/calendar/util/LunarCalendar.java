@@ -285,7 +285,9 @@ public class LunarCalendar {
 	public int getLeapMonth() {
 		return leapMonth;
 	}
-
+	/*
+	 * 设置闰月
+	 */
 	public void setLeapMonth(int leapMonth) {
 		this.leapMonth = leapMonth;
 	}
