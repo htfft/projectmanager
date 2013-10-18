@@ -2,6 +2,7 @@ package com.fudan.calendar;
 
 import com.fudan.calendar.activity.CalendarActivity;
 
+import com.fudan.calendar.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
